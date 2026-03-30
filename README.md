@@ -1,1 +1,1 @@
-# Compuware-Sales-Dashboard
+# Computer-Sales-Dashboard
